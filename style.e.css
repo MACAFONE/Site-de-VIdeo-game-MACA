@@ -42,7 +42,7 @@ h2 {
 button {
   display: none;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1045px) {
   section width {
     width: 100%;
   }
